@@ -13,6 +13,10 @@ run command `git clone https://github.com/OlegMarko/laravel-echo-server-test.git
 
 run command `composer install`
 
+make `.env` file like to `.env.example`
+
+run command `php artisan key:generate`
+
 run command `php artisan migrate --seed`
 
 start a dev server `php artisan serve`
