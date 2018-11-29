@@ -9,7 +9,7 @@
 
 ## Install Project
 
-run command `git clone https://github.com/OlegMarko/laravel-echo-server-test.git` and `cd laravel-echo-server-test`
+run command `git clone https://github.com/OlegMarko/laravel-graphql-tasks.git` and `cd laravel-graphql-tasks`
 
 run command `composer install`
 
